@@ -306,3 +306,13 @@ udp://tracker2.indowebster.com:6969/announce
 udp://zer0day.ch:1337/announce
 
 udp://zer0day.to:1337/announce
+
+http://open.tracker.thepiratebay.org/announce
+
+http://www.torrent-downloads.to:2710/announce
+
+http://denis.stalker.h3q.com:6969/announce
+
+udp://denis.stalker.h3q.com:6969/announce
+
+http://www.sumotracker.com/announce
